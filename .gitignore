@@ -1,2 +1,4 @@
 *.bin
 *.abi
+*.DS_Store
+build/*
